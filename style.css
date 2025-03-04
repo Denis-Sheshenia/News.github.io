@@ -218,6 +218,7 @@ body {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
     margin-bottom: 40px;
+    max-width: 800px;
     gap: 40px;
 }
 
