@@ -217,6 +217,7 @@ body {
 .footer__sections {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
+    margin: 0 auto;
     margin-bottom: 40px;
     max-width: 800px;
     gap: 40px;
